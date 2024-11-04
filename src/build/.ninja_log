@@ -1,0 +1,5 @@
+# ninja log v5
+1	420	1730682648924674770	CMakeFiles/gl.dir/src/main.cpp.o	92c87280cd758d05
+1	74	1730678288155051035	CMakeFiles/gl.dir/src/glad.c.o	fcb7f0b51a8ccebc
+420	485	1730682648992674529	gl	6979d0992169a85
+1	3	0	clean	a31eedcededa8236

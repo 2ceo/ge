@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/ceo/dev/C++/ge/build",
+  "command": "/usr/bin/clang++ -I/home/ceo/dev/C++/ge/include -g -std=gnu++20 -o CMakeFiles/gl.dir/src/main.cpp.o -c /home/ceo/dev/C++/ge/src/main.cpp",
+  "file": "/home/ceo/dev/C++/ge/src/main.cpp"
+},
+{
+  "directory": "/home/ceo/dev/C++/ge/build",
+  "command": "/usr/bin/clang -I/home/ceo/dev/C++/ge/include -g -o CMakeFiles/gl.dir/src/glad.c.o -c /home/ceo/dev/C++/ge/src/glad.c",
+  "file": "/home/ceo/dev/C++/ge/src/glad.c"
+}
+]
